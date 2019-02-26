@@ -1,3 +1,12 @@
+// Colors
+// workaround to make it work with hugo parameters
+$theme: {{ .Param "themeColor" }};
+$text: {{ .Param "textColor" }};
+$light-grey: {{ .Param "lightGreyColor" }};
+$dark-grey: {{ .Param "darkGreyColor" }};
+$highlight-grey: {{ .Param "highlightGreyColor" }};
+$midnightblue: {{ .Param "midnightBlueColor" }};
+
 @import "predefined.scss";
 @import "normalize.scss";
 @import "syntax.scss";

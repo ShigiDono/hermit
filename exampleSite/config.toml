@@ -35,6 +35,12 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # description = ""
   # images = [""]
   themeColor = "#494f5c"
+  themeColor = "#018574"
+  textColor = "#c6cddb"
+  lightGreyColor = "#494f5c"
+  darkGreyColor = "#3B3E48"
+  highlightGreyColor = "#7d828a"
+  midnightBlueColor = "#2c3e50"
 
   homeSubtitle = "A minimal and fast theme for Hugo."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
