@@ -153,6 +153,17 @@ table {
   height: 1em;
 }
 
+.article-duration {
+    margin-top: 14px;
+    float: right;
+    font-size: 10px;
+    padding: 5px 5px;
+    font-weight: bolder;
+    border-radius: 2px;
+    background: $text;
+    color: $light-grey;
+}
+
 .desktop-only, .desktop-only-ib {
   display: none;
 }
