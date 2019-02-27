@@ -839,3 +839,12 @@ hr.post-end {
     right: 1.2em;
   }
 }
+
+.references {
+    list-style-type: decimal;
+}
+
+.references > div {
+    display: list-item;
+    margin-left: 2em;
+}
